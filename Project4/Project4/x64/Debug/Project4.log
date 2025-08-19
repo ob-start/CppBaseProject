@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Visual_Stdio_Projrct\Cpp_project\Project4\main.cpp(85,9): warning C4101: “prev2X”: 未引用的局部变量
+E:\Visual_Stdio_Projrct\Cpp_project\Project4\main.cpp(85,17): warning C4101: “prev2Y”: 未引用的局部变量
+  Project4.vcxproj -> E:\Visual_Stdio_Projrct\Cpp_project\Project4\x64\Debug\Project4.exe
